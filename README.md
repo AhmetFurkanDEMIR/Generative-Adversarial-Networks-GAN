@@ -1,3 +1,13 @@
+# GAN Kullanım Alanları
+
+* Resim üretme
+* Resimde işelem
+* Çözünürlük arrtırma
+* Sanatsal
+* Gerçekçi resimler
+* Ses üretimi
+* Yaşlandırma
+
 # Generative Adversarial Networks-GAN 
 
 * Ressimler ile öğrenip yeni resimler oluşturan sinir ağları
@@ -41,4 +51,7 @@
 * Normal CNN 'in tam tersi akış sağlar.
 * Çıkış olarak bir resim üretir. (Normal CNN giriş olarak alır resmi)
 
+![Screenshot_2020-03-11_19-25-20](https://user-images.githubusercontent.com/54184905/76456506-2440a400-63e8-11ea-9106-6e4a93743272.png)
+
+![Screenshot_2020-03-11_19-25-27](https://user-images.githubusercontent.com/54184905/76456508-2571d100-63e8-11ea-82a0-6288012fd338.png)
 
