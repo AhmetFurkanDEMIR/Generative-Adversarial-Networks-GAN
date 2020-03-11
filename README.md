@@ -15,3 +15,7 @@
 * G ye rakip olarak görülür. D gerçek resimlere ulaşabilir ama G ulaşamaz, D gerçek ve G nin ürettiği resimleri alıp yorumlar ve bir çıktı verir.
 * Eğer tahmin doğru ise 1 e yaklaşır tahmin yanlış ise 0 a yaklaşır.
 * G den üretilen resimleri alır ve nerede hata yaptığını G ye söyler.
+
+![Screenshot_2020-03-11_19-08-48](https://user-images.githubusercontent.com/54184905/76455095-7ed90080-63e6-11ea-9161-ed586310a162.png)
+
+![Screenshot_2020-03-11_19-09-43](https://user-images.githubusercontent.com/54184905/76455103-80a2c400-63e6-11ea-8731-387f9e0e8caf.png)
