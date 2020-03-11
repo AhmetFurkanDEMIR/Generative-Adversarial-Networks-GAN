@@ -55,3 +55,7 @@
 
 ![Screenshot_2020-03-11_19-25-27](https://user-images.githubusercontent.com/54184905/76456508-2571d100-63e8-11ea-82a0-6288012fd338.png)
 
+# Kodlar
+
+* Kodları Aynı dizinde tutarak GANs.py üzerinden eğitime başlayabilirsiniz (İyi bir donanımınız yoksa Önerilmez)
+* Kodları Colab üzerinden google 'ın makinelerinde çalıştırın : https://colab.research.google.com/drive/1vFtgVgfezjA3P3CqGEgFrWmOCCzyLyJY#scrollTo=TERQlyxB93D6&line=34&uniqifier=1
