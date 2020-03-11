@@ -28,4 +28,6 @@
 
 * Her iki bölümde kod satırları boyunca kendilerini eğitirler.
 
+![Screenshot_2020-03-11_19-12-58](https://user-images.githubusercontent.com/54184905/76455716-03c41a00-63e7-11ea-9c22-6c0e9f7e0f8a.png)
 
+![Screenshot_2020-03-11_19-15-42](https://user-images.githubusercontent.com/54184905/76455724-058ddd80-63e7-11ea-87f1-281aac7b11e7.png)
