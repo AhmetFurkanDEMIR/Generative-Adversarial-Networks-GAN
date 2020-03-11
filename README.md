@@ -18,4 +18,14 @@
 
 ![Screenshot_2020-03-11_19-08-48](https://user-images.githubusercontent.com/54184905/76455095-7ed90080-63e6-11ea-9161-ed586310a162.png)
 
+(Yanlış resim ve 0 etiketi)
+
 ![Screenshot_2020-03-11_19-09-43](https://user-images.githubusercontent.com/54184905/76455103-80a2c400-63e6-11ea-8731-387f9e0e8caf.png)
+
+(Doğru resim ve 1 etiketi)
+
+# Algoritmaların Eğitimi
+
+* Her iki bölümde kod satırları boyunca kendilerini eğitirler.
+
+
